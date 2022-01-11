@@ -1,0 +1,24 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "This is a cli program that generates a readme for any project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krausyd/readme-generator.git"
+  },
+  "keywords": [
+    "readme",
+    "nodejs",
+    "github"
+  ],
+  "author": "krausyd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krausyd/readme-generator/issues"
+  },
+  "homepage": "https://github.com/krausyd/readme-generator#readme"
+}
