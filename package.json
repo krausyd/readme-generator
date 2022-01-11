@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/krausyd/readme-generator/issues"
   },
-  "homepage": "https://github.com/krausyd/readme-generator#readme"
+  "homepage": "https://github.com/krausyd/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
 }
